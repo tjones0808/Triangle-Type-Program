@@ -1,0 +1,17 @@
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\TriangleTypeTests.deps.json
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\TriangleTypeTests.runtimeconfig.json
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\TriangleTypeTests.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\TriangleTypeTests.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\TriangleTypeTests.pdb
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.AssemblyInfo.cs
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.pdb
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\Triangle Type Program.dll
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\bin\Debug\netcoreapp2.1\Triangle Type Program.pdb
+C:\Users\tyler\source\repos\Triangle Type Program\TriangleTypeTests\obj\Debug\netcoreapp2.1\TriangleTypeTests.csproj.CopyComplete

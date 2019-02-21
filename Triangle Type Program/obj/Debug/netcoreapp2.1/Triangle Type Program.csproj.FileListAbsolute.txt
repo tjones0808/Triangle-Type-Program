@@ -1,0 +1,11 @@
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\bin\Debug\netcoreapp2.1\Triangle Type Program.deps.json
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\bin\Debug\netcoreapp2.1\Triangle Type Program.runtimeconfig.json
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\bin\Debug\netcoreapp2.1\Triangle Type Program.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\bin\Debug\netcoreapp2.1\Triangle Type Program.dll
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\bin\Debug\netcoreapp2.1\Triangle Type Program.pdb
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.AssemblyInfo.cs
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.dll
+C:\Users\tyler\source\repos\Triangle Type Program\Triangle Type Program\obj\Debug\netcoreapp2.1\Triangle Type Program.pdb
